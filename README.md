@@ -1,6 +1,6 @@
 # MyAwesomePrologWork
 
-### 1) To determine whether the first two elements of a list are same.
+[Link to Google](https://www.google.com) ### 1) To determine whether the first two elements of a list are same.
 
 ### 2) To determine whether a list is not a two-element list.
 
